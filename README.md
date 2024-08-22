@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Raunak Jalan
 
-[![GitHub followers](https://img.shields.io/github/followers/RaunakJalan?style=social)](https://github.com/RaunakJalan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunak--jalan-blue)](https://www.linkedin.com/in/raunak-jalan-dev/)
+[![GitHub followers](https://img.shields.io/github/followers/RaunakJalan?style=social)](https://github.com/RaunakJalan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunak--jalan-blue)](https://www.linkedin.com/in/raunak-jalan-dev/)  
 [![Email](https://img.shields.io/badge/Email-ronakjalan98%40gmail.com-red)](mailto:ronakjalan98@gmail.com)
 
 I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on experience in building and automating test suites for complex software applications. I love solving problems, ensuring robustness in systems, and improving software quality through automation. Here's a bit more about me:
@@ -21,7 +21,7 @@ I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on 
 ### simplyBlock (Current Role)
 - 🤖 **Automation Expert**: Created a complete automation testing suite with CI on **GitHub Actions**, automating more than 20 test cases.
 - 📝 **Test Case Structure**: Developed a scalable test case structure that enhances testing efficiency and accuracy.
-- 🎯 **Collaboration**: Worked closely with the team to ubderstand features, implement and optimize automated workflows, ensuring continuous testing and integration processes run smoothly.
+- 🎯 **Collaboration**: Worked closely with the team to understand features, implement and optimize automated workflows, ensuring continuous testing and integration processes run smoothly.
 
 ### YugabyteDB (November 2022 - Present)
 - 🚀 **Ownership of Unit Test Triage**: Reduced recurring bugs from 87 to 30, earning kudos from directors.
@@ -53,8 +53,6 @@ GPA: 8.56/10
 - Build open-source tools that streamline **automated testing** and **database management**.
 
 ## 📫 Let's Connect
-Feel free to reach out if you'd like to collaborate on projects, discuss software testing methodologies, or simply talk about the latest trends in tech!
+Feel free to reach out if you'd like to collaborate on projects, discuss software testing methodologies, or simply talk about the latest trends in tech.
 
-- **GitHub**: [RaunakJalan](https://github.com/RaunakJalan)
-- **LinkedIn**: [Raunak Jalan](https://www.linkedin.com/in/raunak-jalan-dev/)
-- **Email**: [ronakjalan98@gmail.com](mailto:ronakjalan98@gmail.com)
+Have a great day! 😊
