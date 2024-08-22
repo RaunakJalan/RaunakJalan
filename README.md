@@ -32,11 +32,6 @@ I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on 
 - 🧑‍💻 **Customer Support**: Solved customer tickets and mentored colleagues while working with IBM DB2 databases.
 - 🚦 **End-to-End Testing**: Led testing for DB2 project upgrades and performed multiple code reviews.
 
-## 📚 Education
-**Bachelor of Engineering in Computer Science**  
-*Chandigarh University, Punjab*  
-GPA: 8.56/10
-
 ## 🌟 What I’m Currently Working On
 - Ensuring the reliability and performance of **YugabyteDB** through advanced automated test suites.
 - Reducing cloud infrastructure costs by optimizing testing processes and storage.
