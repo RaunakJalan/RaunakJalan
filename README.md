@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Raunak Jalan
 
-[![GitHub followers](https://img.shields.io/github/followers/RaunakJalan?style=social)](https://github.com/RaunakJalan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunak--jalan-blue)](https://www.linkedin.com/in/raunak-jalan-dev/)  
-[![Email](https://img.shields.io/badge/Email-ronakjalan98%40gmail.com-red)](mailto:ronakjalan98@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/RaunakJalan?style=social)](https://github.com/RaunakJalan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-raunak--jalan-blue)](https://www.linkedin.com/in/raunak-jalan-dev/)  [![Email](https://img.shields.io/badge/Email-ronakjalan98%40gmail.com-red)](mailto:ronakjalan98@gmail.com)
 
 I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on experience in building and automating test suites for complex software applications. I love solving problems, ensuring robustness in systems, and improving software quality through automation. Here's a bit more about me:
 
