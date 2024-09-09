@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/RaunakJalan?style=social)](https://github.com/RaunakJalan) [![Email](https://img.shields.io/badge/Email-ronakjalan98%40gmail.com-red)](mailto:ronakjalan98@gmail.com)
 
-I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on experience in building and automating test suites for complex software applications. I love solving problems, ensuring robustness in systems, and improving software quality through automation. Here's a bit more about me:
+I'm a **Software Development Engineer in Test (SDET)** with 4 years of hands-on experience in building and automating test suites for complex software applications. I love solving problems, ensuring robustness in systems, and improving software quality through automation. Here's a bit more about me:
 
 ## 🛠️ Tech Expertise
 
@@ -15,12 +15,6 @@ I'm a **Software Development Engineer in Test (SDET)** with 3 years of hands-on 
 - **Tools**: Jenkins, Git, NetApp
 
 ## 💼 Work Experience
-
-### simplyBlock - (Contract)
-- 🤖 Automation Expert: Created a complete automation testing suite with CI on GitHub Actions, automating more than 20 test cases.
-- 📝 Test Case Structure: Developed a scalable test case structure that enhances testing efficiency and accuracy. Found more than 20 bugs.
-- 🎯 Collaboration: Worked closely with the team to understand features, implement, and optimize automated workflows, ensuring continuous testing and integration processes run smoothly.
-- 🌍 Pioneering Role: As the first Automation QA (and second QA overall) in a global team, led the initiative to implement automation, significantly boosting team productivity and workflow efficiency.
 
 ### YugabyteDB
 - 🚀 **Ownership of Unit Test Triage**: Reduced recurring bugs from 87 to 30, earning kudos from directors.
